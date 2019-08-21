@@ -1,0 +1,53 @@
+.page{
+	width:780px;
+	margin : auto;
+	font-size : 16px;
+	font-family : calibri;
+	
+}.ifophoto{
+	height : 250px;
+}
+.coordonnées{
+	float : left;
+	
+}
+.photo{
+	position: absolute; 
+	right : 300px;
+	top: 15px;
+	
+}
+stonge{
+	font-size :26px;
+}
+.section{
+	margin-bottom : 70px;
+	text-align : justify;
+}
+h1,h2,h3,h4 {
+	font-size : 28px;
+	text-transform :uppercase;
+	border-bottom : 3px solid #5D1073;
+}
+.sec-gauche{
+	float : left;
+	font-weight : bold;
+	font-size; 16 px;
+}
+.sec-droit{
+	margin-left : 150px;
+}
+
+.sec-droit{
+	margin-left: 200px;
+	margin-top: 37px;
+	font-weight : bold;
+	font-size :16 px;
+	
+}
+.mimi{
+
+	font-weight : normal;
+	font-size; 3px;	
+	
+}
