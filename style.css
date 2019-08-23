@@ -32,22 +32,22 @@ h1,h2,h3,h4 {
 .sec-gauche{
 	float : left;
 	font-weight : bold;
-	font-size; 16 px;
+	font-size: 16 px;
+	flex-direction: row;
 }
-.sec-droit{
-	margin-left : 150px;
-}
+
 
 .sec-droit{
 	margin-left: 200px;
 	margin-top: 37px;
 	font-weight : bold;
 	font-size :16 px;
+	flex-direction: row;
 	
 }
 .mimi{
 
 	font-weight : normal;
-	font-size; 3px;	
+	font-size: 10px;	
 	
 }
